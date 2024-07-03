@@ -14,7 +14,6 @@ This repository contains the implementation of the D-RISE algorithm for the qual
 - [Usage](#usage)
 - [Examples](#examples)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -108,10 +107,6 @@ We welcome contributions to improve and expand this project. If you have any ide
     git push origin feature-name
     ```
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
 
